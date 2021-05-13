@@ -19,7 +19,3 @@ The _y_ coordinates are from -π to π and represent the second angle
 Where _\<frame\>_ is the number of frames to render (60 fps)
 
 The output will be saved to _output.gif_ and the frames to the _frames_ folder
-
-`python3 main.py 300` Took me a whole hour to render and here it is:
-
-![output](./output.gif)
