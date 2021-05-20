@@ -8,6 +8,13 @@ The _x_ coordinates are from -π to π and represent the first angle
 
 The _y_ coordinates are from -π to π and represent the second angle
 
+## Clone
+
+```sh
+git clone https://github.com/donno2048/DP-render
+cd DP-render
+```
+
 ## Install dependencies
 
 `pip3 install -r requirements.txt`
